@@ -1,0 +1,64 @@
+.container {
+  height: 780px;
+  width: 390px;
+  background: white;
+  margin: 20px auto;
+  padding: 0;
+}
+.img-fluid {
+  width: 100%;
+  height: 213px;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.translationPart {
+  margin-top: 25px;
+  width: 362px;
+  height: 505px;
+  border: 2px solid #252f42;
+  border-radius: 15px;
+  display: block;
+  margin: 25px auto;
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #035a9d;
+  line-height: 150%;
+  margin-top: 15px;
+}
+.textToTranslate {
+  width: 317px;
+  height: 118px;
+  border-radius: 8px;
+  border: none;
+  background-color: #eff0f4;
+  padding: 8px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: semibold;
+}
+label {
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.radio {
+  display: block;
+  justify-items: left;
+  align-items: center;
+  padding: 0 40px;
+  margin-top: 20px;
+}
+.translateBtn {
+  width: 322px;
+  height: 50px;
+  border: none;
+  background-color: #035a9d;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 50px;
+}
